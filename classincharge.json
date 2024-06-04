@@ -1,0 +1,128 @@
+[
+    {
+      "year": "II",
+      "semester": "I",
+      "classIncharge": "Mrs.K.Manasa",
+      "section": "Group-1",
+      "contactNo": "9059794747"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classIncharge": "Dr. M. Santhosh Kum",
+      "section": "Group-2",
+      "contactNo": "9701723629"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classIncharge": "Mr.D.Trinadha Rao",
+      "section": "Group-3",
+      "contactNo": "9866743443"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classIncharge": "Mr. D.Srikanth",
+      "section": "Group-4",
+      "contactNo": "9505302498"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classIncharge": "Mr. Vamshi Krishna",
+      "section": "Group-5",
+      "contactNo": "9052842818"
+    },
+    {
+      "year": "II",
+      "semester": "I",
+      "classIncharge": "Mrs. S Sagharika",
+      "section": "Group-6",
+      "contactNo": "7989859459"
+    },
+    {
+        "year": "II",
+        "semester": "I",
+        "classIncharge": "Dr. G. Jose Moses",
+        "section": "Group-7",
+        "contactNo": "9701329977"
+    },
+    {
+        "year": "II",
+        "semester": "I",
+        "classIncharge": "Dr.B.Jogeswara Rao",
+        "section": "Group-8",
+        "contactNo": "9550009538"
+    },
+    {
+        "year": "II",
+        "semester": "II",
+        "classIncharge": "Mrs.P.Shyamala",
+        "section": "ALPHA",
+        "contactNo": "9894965756"
+    },
+    {
+        "year": "II",
+        "semester": "II",
+        "classIncharge": "Mrs.Sowmya Saraf",
+        "section": "BETA",
+        "contactNo": "9701260289"
+    },
+    {
+        "year": "II",
+        "semester": "II",
+        "classIncharge": "Mrs.S.Monika",
+        "section": "GEMMA",
+        "contactNo": "9566841184"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classIncharge": "r.M.Santhosh Kumar",
+      "section": "DELTA",
+      "contactNo": "9701723629"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classIncharge": "Mrs.P.Sabitha",
+      "section": "SIGMA",
+      "contactNo": "8008463700"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classIncharge": "Mr.G.Raju",
+      "section": "OMEGA",
+      "contactNo": "9640051898"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classIncharge": "Mrs.D.Suneetha",
+      "section": "ZETA",
+      "contactNo": "7702976749"
+    },
+    {
+      "year": "II",
+      "semester": "II",
+      "classIncharge": "Mr.Naveena Kumar",
+      "section": "EPSILON",
+      "contactNo": "9951414245"
+    },
+    {
+      "year": "III",
+      "semester": "I",
+      "classIncharge": "Mrs.P.Sabitha",
+      "section": "ALPHA",
+      "contactNo": "8008463700"
+    },
+    {
+      "year": "III",
+      "semester": "I",
+      "classIncharge": "Mr.K.Sreekanth",
+      "section": "BETA",
+      "contactNo": "8500533524"
+    }
+  ]
